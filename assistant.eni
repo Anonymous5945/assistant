@@ -1,0 +1,10 @@
+from assistant import (
+    APP_ID,
+    API_HASH,
+    TG_BOT_TOKEN
+)
+
+[pyrogram]
+api_id = APP_ID
+api_hash = API_HASH
+bot_token = TG_BOT_TOKEN
